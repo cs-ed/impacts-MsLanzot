@@ -2,9 +2,6 @@
 
 I teach AP Computer Science Principles (APCSP) to 9th through 12th graders. It is an introductory level course meant to be a broad introduction to computer science. The impact of computing on society is a major theme of the course. In this document, I will describe how I teach and assess these ideas in my course.
 
-## Plan
-
-
 
 ### Learning Objectives
 
@@ -17,11 +14,11 @@ The three recommended/assessed concepts that fall under the umbrella of this big
 <li>Safe computing</li>
 </ol>
 The learning objectives for this unit require students to:
--Recognize/Discuss/Describe both the beneficial and harmful impacts of technological innovations 
--Interpret articles and videos about computing innovations that have been shown to represent algorithmic bias
--Compare and contrast access to and use of technology across generational, socioeconomic, and geographic boundaries
--Judge the impact and effectiveness of computing innovations that use big data and identity-based technologies
--Create a program that generates random passwords
+  -Recognize/Discuss/Describe both the beneficial and harmful impacts of technological innovations 
+  -Interpret articles and videos about computing innovations that have been shown to represent algorithmic bias
+  -Compare and contrast access to and use of technology across generational, socioeconomic, and geographic boundaries
+  -Judge the impact and effectiveness of computing innovations that use big data and identity-based technologies
+  -Create a program that generates random passwords
 
 ### Learning Activities
 
