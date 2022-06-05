@@ -17,12 +17,11 @@ The three recommended/assessed concepts that fall under the umbrella of this big
 <li>Safe computing</li>
 </ol>
 The learning objectives for this unit require students to:
-Recognize/Discuss/Describe both the beneficial and harmful impacts of technological innovations 
-Interpret articles and videos about computing innovations that have been shown to represent algorithmic bias
-Compare and contrast access to and use of technology across generational, socioeconomic, and geographic boundaries
-Judge the impact and effectiveness of computing innovations that use big data and identity-based technologies
-Create a plan for a school of the future that incorporates technology in a way that maximizes benefits and minimizes harmful effects
-
+-Recognize/Discuss/Describe both the beneficial and harmful impacts of technological innovations 
+-Interpret articles and videos about computing innovations that have been shown to represent algorithmic bias
+-Compare and contrast access to and use of technology across generational, socioeconomic, and geographic boundaries
+-Judge the impact and effectiveness of computing innovations that use big data and identity-based technologies
+-Create a program that generates random passwords
 
 ### Learning Activities
 
