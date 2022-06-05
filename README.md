@@ -14,12 +14,14 @@ The three recommended/assessed concepts that fall under the umbrella of this big
 <li>Safe computing</li>
 </ol>
 The learning objectives for this unit require students to:
-  -Recognize/Discuss/Describe both the beneficial and harmful impacts of technological innovations 
-  -Interpret articles and videos about computing innovations that have been shown to represent algorithmic bias
-  -Compare and contrast access to and use of technology across generational, socioeconomic, and geographic boundaries
-  -Judge the impact and effectiveness of computing innovations that use big data and identity-based technologies
-  -Create a program that generates random passwords
-
+<ul>
+  <li>Recognize/Discuss/Describe both the beneficial and harmful impacts of technological innovations </li>
+  <li>Interpret articles and videos about computing innovations that have been shown to represent algorithmic bias</li>
+  <li>Compare and contrast access to and use of technology across generational, socioeconomic, and geographic boundaries</li>
+  <li>Judge the impact and effectiveness of computing innovations that use big data and identity-based technologies</li>
+  <li>Create a program that generates random passwords</li>
+</ul>
+  
 ### Learning Activities
 
 To study the digital divide, we first have an informal conversation about student use of and access to technological devices and the internet at home. After the class baseline is established, students are tasked with choosing one article from the following website:
